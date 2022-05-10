@@ -186,11 +186,19 @@ p {
 	.container{
 		max-width: 500px;
 	}
+	h4{
+		padding: 5px; /* Поля вокруг текста */
+  		margin: 5px; /* Поля вокруг блока */
+}
 }
 @media (max-width: 325px) and (max-width: 524px){
 	.container{
 		max-width: 300px;
 	}
+	h4{
+		padding: 5px; /* Поля вокруг текста */
+  		margin: 5px; /* Поля вокруг блока */
+}
 }
 
 
